@@ -4,6 +4,8 @@
 Railway Reservation System Using Java
 Programming.
 
+Java important concepts like, inheritance, file handling, exception handling are used in this project.
+
 Railway Reservation System is an organized computerized system 
 designed and programmed to deal with day-to-day operations and 
 management of the railway activities..
@@ -24,4 +26,5 @@ messenger details etc.
 The main function of system is to register and store 
 train details , passenger details and retrieve these details when required.
 
+Note: Cancelling reserved ticket functionality has not been added yet. 
 
