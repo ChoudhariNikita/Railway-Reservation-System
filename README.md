@@ -27,6 +27,3 @@ The main function of system is to register and store
 train details , passenger details and retrieve these details when required.
 
 Note: 'Cancelling reserved ticket' functionality has not been added yet. Feel free to make desired changes in this repository. 😊😁
-
-Output:
-![Image1](https://Output/1.png)
