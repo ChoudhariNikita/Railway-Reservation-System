@@ -1,10 +1,9 @@
 # Railway-Reservation-System
-🚆🚆 Simple Railway Reservation System in Java. 🚆🚆
+## 🚆🚆 Simple Railway Reservation System in Java. 🚆🚆
 
-Railway Reservation System Using Java
-Programming.
+### Railway Reservation System Using Java Programming.
 
-Java important concepts like, inheritance, file handling, exception handling are used in this project.
+### Java important concepts like, inheritance, file handling, exception handling are used in this project.
 
 Railway Reservation System is an organized computerized system 
 designed and programmed to deal with day-to-day operations and 
@@ -26,9 +25,11 @@ messenger details etc.
 The main function of system is to register and store 
 train details , passenger details and retrieve these details when required.
 
-Note: 'Cancelling reserved ticket' functionality has not been added yet. Feel free to make desired changes in this repository. 😊😁
+#### Note: 'Cancelling reserved ticket' functionality has not been added yet. Feel free to make desired changes in this repository. 😊😁
 
-Output:
+## **Output:**
+
+
 ![1](https://user-images.githubusercontent.com/97299411/150681606-33776f16-1789-493f-88ef-f991ef6c0b73.png)
 
 ![2](https://user-images.githubusercontent.com/97299411/150681693-c338c7f5-6522-4e9c-bab9-70acd5ac9ed8.png)
@@ -39,7 +40,7 @@ Output:
 
 ![5](https://user-images.githubusercontent.com/97299411/150681697-52eff4da-3514-4626-a2d8-29a278c7c402.png)
 
-Data is saved in txt file:
+#### Data is saved in txt file:
 ![6](https://user-images.githubusercontent.com/97299411/150681698-2eb34734-fe83-418d-b076-ab9a220b7ba9.png)
 
 ![7](https://user-images.githubusercontent.com/97299411/150681699-87eff355-c2aa-4d25-ab93-a71e51cddeb5.png)
@@ -48,7 +49,7 @@ Data is saved in txt file:
 
 ![9](https://user-images.githubusercontent.com/97299411/150681702-a90b687e-7d67-40b7-a6b1-56eeef839e30.png)
 
-Data is saved in txt file:
+#### Data is saved in txt file:
 ![10](https://user-images.githubusercontent.com/97299411/150681705-b64f080e-6309-4ba5-a82d-7dc20307af19.png)
 
 ![11](https://user-images.githubusercontent.com/97299411/150681706-f2184376-bd33-44ea-9f15-27df9eba199f.png)
@@ -61,7 +62,7 @@ Data is saved in txt file:
 
 ![15](https://user-images.githubusercontent.com/97299411/150681711-47dd7ab9-622a-443d-94ce-090df18c2071.png)
 
-Data is saved in txt file:
+#### Data is saved in txt file:
 ![16](https://user-images.githubusercontent.com/97299411/150681712-15c951e8-5990-4027-a321-b6df5b758c27.png)
 
 ![17](https://user-images.githubusercontent.com/97299411/150681713-03944ac1-890c-4b59-a14a-42c96b6ce167.png)
